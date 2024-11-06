@@ -14,6 +14,10 @@ Valor: 8
 Prioridad: 4 
 Estimación: 4 días 
 
+Modulo de area de la app : 
+![image](https://github.com/user-attachments/assets/dc08e1ec-0980-4c93-b590-33a13dd6c2e8)
+
+
 Historia de Usuario #5 
 
 Título: Gestión de sedes municipales 
@@ -23,7 +27,11 @@ Valor: 8
 Prioridad: 5 
 Estimación: 5 días 
 
+Modulo de sede de la app : 
+![image](https://github.com/user-attachments/assets/dbc51134-c27f-496a-8969-c605732a3410)
 
+
+Barra de navegacion de la app :
 ![3fa5c81c-f8e9-4769-99c1-9d236af580c2](https://github.com/user-attachments/assets/83cb793c-1336-4dd0-8357-9150bb384d18)
 
 
