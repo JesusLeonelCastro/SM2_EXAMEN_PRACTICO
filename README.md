@@ -31,6 +31,7 @@ Estimación: 5 días
 Modulo de sede de la app : 
 
 ![image](https://github.com/user-attachments/assets/dbc51134-c27f-496a-8969-c605732a3410)
+
 Barra de navegacion de la app :
 
 
