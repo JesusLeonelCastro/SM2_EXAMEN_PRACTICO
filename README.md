@@ -25,3 +25,7 @@ Estimación: 5 días
 
 
 ![3fa5c81c-f8e9-4769-99c1-9d236af580c2](https://github.com/user-attachments/assets/83cb793c-1336-4dd0-8357-9150bb384d18)
+
+
+Enlace de github :
+https://github.com/JesusLeonelCastro/SM2_EXAMEN_PRACTICO
