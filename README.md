@@ -13,6 +13,7 @@ Criterio de Validación: Las áreas municipales se pueden crear, editar y elimin
 Valor: 8 
 Prioridad: 4 
 Estimación: 4 días 
+
 Modulo de area de la app : 
 
 ![image](https://github.com/user-attachments/assets/dc08e1ec-0980-4c93-b590-33a13dd6c2e8)
@@ -26,6 +27,7 @@ Criterio de Validación: Las sedes se pueden crear, editar y eliminar, y se visu
 Valor: 8 
 Prioridad: 5 
 Estimación: 5 días 
+
 Modulo de sede de la app : 
 
 ![image](https://github.com/user-attachments/assets/dbc51134-c27f-496a-8969-c605732a3410)
