@@ -29,3 +29,6 @@ Estimación: 5 días
 
 Enlace de github :
 https://github.com/JesusLeonelCastro/SM2_EXAMEN_PRACTICO
+
+Enlace de presentacion del pryecto :
+https://uptpe.sharepoint.com/:p:/r/sites/SoluMoviles2Proyecto/Shared%20Documents/General/PPT_APP_ReporteInformeTecnico.pptx?d=w08f89586c12a4d40b684984ec7dae01a&csf=1&web=1&e=I0NgaS
